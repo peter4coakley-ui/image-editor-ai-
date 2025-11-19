@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Realtor Image Suite",
+  "description": "Professional AI-powered real estate photography suite featuring MLS-compliant editing, virtual staging, and cinematic video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
